@@ -115,4 +115,5 @@ elif role == "View Today's Deliveries":
         for o in orders:
             st.markdown(f"**Order #{o[0]} - {o[1]}** | Delivery Date: {o[2]} | Status: {o[3]}")
     else:
-        st.info("No deliveries due today.")
+        st.info("No deliveries due today.")  # shows info if no deliveries found
+
