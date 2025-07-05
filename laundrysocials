@@ -9,7 +9,7 @@ import smtplib
 # --- SETTINGS ---
 DB = "laundry.db"
 EMAIL_ADDRESS = "laundrysocials2024@gmail.com"       
-EMAIL_PASSWORD = "your_app_password_here"            
+EMAIL_PASSWORD = "Laundry@123!"            
 OPS_EMAIL = "lscommercial01@gmail.com"              
 DELIVERY_EMAIL = "lscommercial02@gmail.com"          
 
